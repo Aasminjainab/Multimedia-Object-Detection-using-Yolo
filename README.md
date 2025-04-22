@@ -112,10 +112,6 @@ YOLO_TESTING_2/
 └── temp/              # Temporary directory for video processing
 ```
 
-## License
-
-[Optional: Add license information here]
-
 ---
 
 **Note:** Ensure you have FFmpeg installed on your system for video processing to work correctly. For YouTube video downloads, `yt-dlp` is used, make sure it is installed and up to date.
